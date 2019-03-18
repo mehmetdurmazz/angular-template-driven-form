@@ -10,10 +10,11 @@ When we apply NgModel attribute along with the name attribute, Angular automatic
 
 Here are some screenshots :
 
-![image](screenshots/11.PNG)
 
-![image](screenshots/22.PNG)
+<kbd>![image](screenshots/11.PNG)</kbd>
 
-![image](screenshots/44.PNG)
+<kbd>![image](screenshots/22.PNG)</kbd>
 
-![image](screenshots/33.PNG)
+<kbd>![image](screenshots/44.PNG)</kbd>
+
+<kbd>![image](screenshots/33.PNG)</kbd>
